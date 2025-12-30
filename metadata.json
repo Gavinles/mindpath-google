@@ -1,0 +1,9 @@
+{
+  "name": "MindPath AI Studio",
+  "description": "A comprehensive AI-powered workspace integrating Gemini's most advanced multimodal capabilities: from real-time voice and high-fidelity video generation with Veo to deep thinking analysis and grounded search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
